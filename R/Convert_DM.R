@@ -1,6 +1,6 @@
 
-#' Simple R Function for converting DM to Percent
-#'
+#' Simple R Function for converting DM to Percent Senani
+#' Senani Karunaratne
 #' @param x
 #'
 #' @return
