@@ -7,10 +7,10 @@
 #' @export
 #'
 #' @examples
-dm <- function(x) {
+dm <- function(x, y) {
   dry_p <- x + 5
   dry_final <- dry_p * 100
-  x <- plot(x, dry_final)
+  final <- dry_final * y
   return(dry_final)
 
 }
